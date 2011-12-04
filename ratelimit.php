@@ -74,7 +74,7 @@ function plugin_ratelimit_hook(&$data) {
     // rate limits second => allowed posts
     $limits = array(
                 5 => 0,
-               10 => 2,
+               30 => 4,
               300 => 10, // 5minutes
              1800 => 30, // 30 minutes
     );
