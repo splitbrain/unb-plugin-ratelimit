@@ -14,7 +14,7 @@ Here are the current limits:
 
 Feedback on the validity of the chosen limits is appreciated.
 
-To install copy the stopforumspam.* files into your unb_lib/plugins folder.
+To install copy the ratelimit.* files into your unb_lib/plugins folder.
 
 
 ----
